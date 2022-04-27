@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @saktush
+- 👀 I’m interested in python, java script, machine learning and automation scripts
+- 🌱 I’m currently learning python
+- 📫 How to reach me t.me/aktush
